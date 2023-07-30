@@ -1,0 +1,67 @@
+    *{
+        box-sizing: border-box;
+    }
+
+    body{
+        background-color: #24353F;
+    }
+
+
+    .login {
+        background-color: #24353F;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5) ;
+    }
+    h1 {
+        color: #17A2B8;
+    }
+    input {
+        background-color: transparent !important;
+        color: rgb(255, 255, 255) !important;
+    }
+    /* input:focus {
+
+    } */
+
+    span {
+        color: white;
+    }
+
+    a {
+        color: white;
+        text-decoration: none ;
+    }
+
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+
+    .signUP {
+        background-color: #24353F;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5) ;
+    }
+
+    nav{
+        background-color: #24353F;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5) ;
+    }
+    .btn-outline-warning{
+        color: gray;
+    } 
+    .btn-outline-warning:hover{
+        color: white;
+    } 
+
+    .tittle{
+        background-color: #24353F;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5) ;
+    }
+    .navbar-brand {
+        text-decoration: none !important;
+    }
+
+    input::placeholder {
+        color: white !important;
+      }
+   
